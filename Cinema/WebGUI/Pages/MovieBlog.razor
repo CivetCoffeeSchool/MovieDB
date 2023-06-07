@@ -1,0 +1,37 @@
+﻿@page "/MovieBlog"
+
+@using Model.Entities
+@using Domain.Interfaces
+@inject IRepository<Movie> MovieRepository
+
+<div class="container">
+    <h1 class="bg-dark text-white">MovieBlog</h1>
+    <div class="row">
+        <div class="col">
+            Here are all Movies of the database
+            <table>
+                @foreach (var movie in Movies)
+                {
+                    <tr>
+                        <td>@movie.Title</td>
+                        <td>@movie.ShortDescription</td>
+                        <td>@movie.Length</td>
+                        <td>@movie.Director</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+<h3>MovieBlog</h3>
+
+@code {
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        Movies = MovieRepository.ReadAll();
+    }
+
+    private List<Movie> Movies = new List<Movie>();
+}

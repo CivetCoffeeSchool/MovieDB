@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebGUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebGUI.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebGUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebGUI.props",
+      "PackagePath": "build\\WebGUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebGUI.props",
+      "PackagePath": "buildMultiTargeting\\WebGUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebGUI.props",
+      "PackagePath": "buildTransitive\\WebGUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

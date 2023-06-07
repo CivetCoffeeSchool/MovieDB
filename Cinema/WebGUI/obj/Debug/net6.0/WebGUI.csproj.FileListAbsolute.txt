@@ -1,0 +1,125 @@
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\bin\Debug\net6.0\appsettings.json
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\bin\Debug\net6.0\WebGUI.staticwebassets.runtime.json
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\bin\Debug\net6.0\WebGUI.exe
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\bin\Debug\net6.0\WebGUI.deps.json
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\bin\Debug\net6.0\WebGUI.runtimeconfig.json
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\bin\Debug\net6.0\WebGUI.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\bin\Debug\net6.0\WebGUI.pdb
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.csproj.AssemblyReference.cache
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.AssemblyInfoInputs.cache
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.AssemblyInfo.cs
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.RazorAssemblyInfo.cache
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.RazorAssemblyInfo.cs
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\scopedcss\bundle\WebGUI.styles.css
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\scopedcss\projectbundle\WebGUI.bundle.scp.css
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\refint\WebGUI.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.pdb
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\WebGUI.genruntimeconfig.cache
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGUI\obj\Debug\net6.0\ref\WebGUI.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.Lolita.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.Lolita.Sqlite.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Model.dll
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\bin\Debug\net6.0\Model.pdb
+C:\Users\Adrian\Documents\Schule\SEW\Cinema\WebGui\obj\Debug\net6.0\WebGUI.csproj.CopyComplete
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\appsettings.Development.json
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\appsettings.json
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\WebGUI.staticwebassets.runtime.json
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\WebGUI.exe
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\WebGUI.deps.json
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\WebGUI.runtimeconfig.json
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\WebGUI.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\WebGUI.pdb
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Humanizer.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.Lolita.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.Lolita.Sqlite.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Model.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\bin\Debug\net6.0\Model.pdb
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.csproj.AssemblyReference.cache
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.AssemblyInfoInputs.cache
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.AssemblyInfo.cs
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.csproj.CoreCompileInputs.cache
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.MvcApplicationPartsAssemblyInfo.cache
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.RazorAssemblyInfo.cache
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.RazorAssemblyInfo.cs
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\staticwebassets\msbuild.WebGUI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\staticwebassets\msbuild.build.WebGUI.props
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebGUI.props
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebGUI.props
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\staticwebassets.pack.json
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\staticwebassets.build.json
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\staticwebassets.development.json
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\scopedcss\bundle\WebGUI.styles.css
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\scopedcss\projectbundle\WebGUI.bundle.scp.css
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.csproj.CopyComplete
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\refint\WebGUI.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.pdb
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\WebGUI.genruntimeconfig.cache
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGui\obj\Debug\net6.0\ref\WebGUI.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGUI\bin\Debug\net6.0\Domain.dll
+E:\2022&2023 school\Informatik\SEW\C# Uebungen\Topic Entitiyframework\Cinema\WebGUI\bin\Debug\net6.0\Domain.pdb

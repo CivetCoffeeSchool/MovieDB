@@ -1,0 +1,74 @@
+INSERT INTO E_COUNTRIES(NAME)
+VALUES ('Austria');
+INSERT INTO E_COUNTRIES(NAME)
+VALUES ('France');
+INSERT INTO E_COUNTRIES(NAME)
+VALUES ('Germany');
+INSERT INTO E_STATES(NAME)
+VALUES ('Burgenland');
+INSERT INTO E_STATES(NAME)
+VALUES ('Kärnten');
+INSERT INTO E_STATES(NAME)
+VALUES ('Niederösterreich');
+INSERT INTO E_STATES(NAME)
+VALUES ('Oberösterreich');
+INSERT INTO E_STATES(NAME)
+VALUES ('Salzburg');
+INSERT INTO E_STATES(NAME)
+VALUES ('Steiermark');
+INSERT INTO E_STATES(NAME)
+VALUES ('Tirol');
+INSERT INTO E_STATES(NAME)
+VALUES ('Vorarlberg');
+INSERT INTO E_STATES(NAME)
+VALUES ('Wien');
+
+
+INSERT INTO ADDRESSES (ADDRESS_ID, POSTAL_CODE, LOCATION, STREET,STATE, COUNTRY)
+VALUES (1, '3500', 'Krems a.d. Donau','Gewerbestrasse 21', 'Niederösterreich', 'Austria');
+INSERT INTO ADDRESSES (ADDRESS_ID, POSTAL_CODE, LOCATION, STREET,STATE, COUNTRY)
+VALUES (3, '3500', 'Krems a.d. Donau', 'Dr Karl Dorrek Strasse 30', 'Niederösterreich', 'Austria');
+INSERT INTO CINEMAS (CINEMA_ID, LABEL, ADDRESS_ID)
+VALUES (1,'Cinemaplexx Krems', 1);
+INSERT INTO CINEMAS (CINEMA_ID, LABEL, ADDRESS_ID)
+VALUES (3, 'Kino im Kesselhaus', 3);
+INSERT INTO HALLS (HALL_ID, CAPACITY, NAME, CODE, CINEMA_ID)
+VALUES (1, 50, 'Saal A', 'krems_A', 1);
+INSERT INTO HALLS (HALL_ID, CAPACITY, NAME, CODE, CINEMA_ID) 
+VALUES (2, 120, 'Saal B', 'krems_b', 1);
+INSERT INTO HALLS (HALL_ID, CAPACITY, NAME, CODE, CINEMA_ID)
+VALUES (3, 40, 'Kesselsaal', 'KL-34', 3);
+
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (1, 'Russel', 'Crowe', 'Crew');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (2, 'Joaquin ', 'Phoenix', 'Crew');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (3, 'Connie', 'Nielsen', 'Crew');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (4, 'Oliver', 'Reed', 'Crew');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (5, 'Ridley', 'Scott', 'Customer');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (6, 'David', 'Franzoni', 'Customer');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (7, 'Mel', 'Gibson', 'Crew');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (8, 'Sophie', 'Marceau', 'Crew');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (9, 'Patrick', 'McGoohan', 'Customer');
+INSERT INTO PERSONS (PERSON_ID, FIRST_NAME, LAST_NAME, DISCRIMINATOR) VALUES
+    (10, 'Angus', 'Macfadyen', 'Customer');
+
+INSERT INTO MOVIES (MOVIE_ID,DIRECTOR,TITLE, LENGTH, SHORT_DESCRIPTION) VALUES (1,'John Doe', 'Braveheart', 180,  'Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of
+England.');
+INSERT INTO MOVIES (MOVIE_ID, DIRECTOR, TITLE, LENGTH, SHORT_DESCRIPTION)
+VALUES (2, 'Jane Smith', 'The Matrix', 136, 'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against the controllers of it.');
+INSERT INTO MOVIES (MOVIE_ID, DIRECTOR, TITLE, LENGTH, SHORT_DESCRIPTION)
+VALUES (3, 'Michael Johnson', 'Pulp Fiction', 154, 'The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.');
+
+
+
+INSERT into ENTERTAINMENT_MOVIES(MOVIE_ID, CATEGORY)VALUES ('1', 'Action');
+INSERT into ENTERTAINMENT_MOVIES(MOVIE_ID, CATEGORY)VALUES ('2', 'Action');
+INSERT into ENTERTAINMENT_MOVIES(MOVIE_ID, CATEGORY)VALUES ('3', 'Action');

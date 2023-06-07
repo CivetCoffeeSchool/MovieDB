@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\WebGUI.csproj": {}
+  },
+  "projects": {
+    "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+        "outputPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Model\\Model.csproj": {
+                "projectPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+        "outputPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.Lolita.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\WebGUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\WebGUI.csproj",
+        "projectName": "WebGUI",
+        "projectPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\WebGUI.csproj",
+        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+        "outputPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\WebGUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Domain\\Domain.csproj"
+              },
+              "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Model\\Model.csproj": {
+                "projectPath": "E:\\2022&2023 school\\Informatik\\SEW\\C# Uebungen\\Topic Entitiyframework\\Cinema\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.Lolita.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
